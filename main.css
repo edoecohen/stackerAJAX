@@ -44,3 +44,16 @@
 	background-color: #F78181;
 	padding: 1em;
 }
+
+.avatar {
+	float: left;
+	padding: 10px;
+}
+
+.inspiration dt {
+	font-weight: bold;
+}
+
+.inspiration dd {
+	margin-bottom: 5px;
+}
